@@ -137,9 +137,9 @@ further references:
 - https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/scheduling/annotation/EnableAsync.html
 
 ### PostMan Details :
-[1](../../document/image/1.png)
-[2](../../document/image/2.png)
-[3](../../document/image/3.png)
+![](document/image/1.png)
+![](document/image/2.png)
+![](document/image/3.png)
 
 ### Project Descriptions :
 please see application.properties files in resources folder and select a active profile "dev" or "com" to run project. you can check test methods too.  
